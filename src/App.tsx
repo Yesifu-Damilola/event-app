@@ -1,7 +1,7 @@
 const Home = () => {
   const mode = import.meta.env;
   console.log(mode);
-  return <div>Home</div>;
+  return <div>Event Web app</div>;
 };
 
 export default Home;
